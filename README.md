@@ -4,6 +4,7 @@
 [Presentation slides](slides_housing_price_capstone.pdf)<br>
 [Jupyter notebook](unit_03_capstone_final_notebook.ipynb)<br>
 Toolkit: python 3, numpy, pandas, matplotlib, seaborn, scipy, sklearn, xgboost<br>
+Topics:
 - House price prediction using the Ames, Iowa housing market dataset
 - EDA, data cleaning, preprocessing, visualization
 - Feature selection, engineering, dimensionality reduction
