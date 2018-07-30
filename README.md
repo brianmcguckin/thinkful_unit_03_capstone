@@ -2,6 +2,7 @@
 ### Supervised Learning Capstone for Thinkful Data Science Bootcamp
 
 [Presentation slides (pdf)](slides_housing_price_capstone.pdf)
+
 [Jupyter notebook (python 3)](unit_03_capstone_final_notebook.ipynb)
 
 Project summary:
