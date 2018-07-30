@@ -1,14 +1,14 @@
 # Predicting House Prices
 ## Supervised Learning Capstone for Thinkful Data Science Bootcamp
 
-[Presentation slides (pdf)](slides_housing_price_capstone.pdf)<br>
-[Jupyter notebook (python 3)](unit_03_capstone_final_notebook.ipynb)
-
-Project summary:
+[Presentation slides](slides_housing_price_capstone.pdf)<br>
+[Jupyter notebook](unit_03_capstone_final_notebook.ipynb)<br>
+Toolkit: python 3, numpy, pandas, matplotlib, seaborn, scipy, sklearn, xgboost<br>
 - House price prediction using the Ames, Iowa housing market dataset
 - EDA, data cleaning, preprocessing, visualization
 - Feature selection, engineering, dimensionality reduction
 - Focus on categorical vs. continuous handling of ordinal variable data
 - Regularized linear regression: ridge/L2, lasso L1, elastic net L1/L2
-- Ensemble modeling: random forest (sci-kit learn), gradient boosted trees (xgboost)
-- Parameter optimization and model evaluation 
+- Ensemble modeling: decision trees, random forest, gradient boosting
+- Parameter optimization and model evaluation
+
